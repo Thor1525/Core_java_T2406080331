@@ -1,0 +1,59 @@
+
+
+	.container { 
+		width: 70%; 
+		margin: auto; 
+		text-align: center; 
+	} 
+		
+
+
+	.dice { 
+		text-align: center; 
+		display: inline-block; 
+		margin: 10px; 
+	} 
+
+	body {
+        background-color: #dca6b1; /* Your background color */
+        color: #000; /* New text color (black in this example) */
+        margin: 0;
+    }
+
+	h1 { 
+		margin: 30px; 
+		font-family: "Algerian"; 
+		font-size: 4.5rem; 
+		color: #1404f8; 
+		text-align: center; 
+	} 
+
+	p { 
+		font-size: 2rem; 
+		color: #0075fc; 
+		font-family: "Indie Flower", cursive; 
+	} 
+
+	img { 
+		width: 100%; 
+	} 
+
+	.bottom { 
+		padding-top: 30px; 
+	} 
+
+	.butn {
+        background: #778ab9;
+        font-family: "Indie Flower", cursive;
+        border-radius: 7px;
+        color: #f78d03;
+        font-size: 1.5rem; 
+        padding: 2% 4%; 
+        text-decoration: none;
+    }
+    
+
+	.butn:hover { 
+		background: #f2bbf1; 
+		text-decoration: none; 
+	} 
